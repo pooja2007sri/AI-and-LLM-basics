@@ -1,4 +1,4 @@
-# Resume Generation & AI Coding Prompts
+# Create Resume Generation prompts
 
 **Track:** Generative AI & Prompt Engineering — Prompting for Coding (Training Trains Internship)  
 **Lesson:** 19 of 133 | Level 1
